@@ -37,3 +37,25 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+.publications {
+  ol.bibliography {
+    counter-reset: bib-counter;
+    list-style: none;
+    padding-left: 0;
+
+    li {
+      counter-increment: bib-counter;
+      position: relative;
+      padding-left: 2.5em;
+
+      &::before {
+        content: counter(bib-counter) ".";
+        position: absolute;
+        left: 0;
+        top: 0;
+        font-weight: bold;
+      }
+    }
+  }
+}
