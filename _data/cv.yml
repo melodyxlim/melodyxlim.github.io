@@ -9,12 +9,6 @@ cv:
     - network: GitHub
       username: melodyxlim
 
-  address:
-    street: 142 Sciences Drive
-    city: Ithaca
-    region: New York
-    postalCode: NY 14850
-    countryCode: US
 
   sections:
     Education:
