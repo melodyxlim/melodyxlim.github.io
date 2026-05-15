@@ -19,12 +19,14 @@ cv:
   sections:
     Education:
       - institution: University of Chicago
-        location: Chicago, Illinois
         area: Physics
+        location: Chicago, Illinois
         studyType: PhD
         start_date: 2016
         end_date: 2021
-
+        highlights:
+          - Advised by Heinrich M. Jaeger
+          - Acoustically Levitated Granular Matter
 
       - institution: Duke University
         location: Durham, North Carolina
@@ -32,6 +34,9 @@ cv:
         studyType: Bachelor of Science
         start_date: 2012
         end_date: 2016
+        highlights:
+          - Advised by Robert P. Behringer
+          - Forces and Flows in Non-Newtonian Suspensions
 
     Experience:
       - company: Cornell University
