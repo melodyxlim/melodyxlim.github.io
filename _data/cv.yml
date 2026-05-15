@@ -25,8 +25,8 @@ cv:
         start_date: 2016
         end_date: 2021
         highlights:
-          - Advised by Heinrich M. Jaeger
-          - Acoustically Levitated Granular Matter
+          - Advisor: Heinrich M. Jaeger
+          - Thesis: Acoustically Levitated Granular Matter
 
       - institution: Duke University
         location: Durham, North Carolina
@@ -35,8 +35,8 @@ cv:
         start_date: 2012
         end_date: 2016
         highlights:
-          - Advised by Robert P. Behringer
-          - Forces and Flows in Non-Newtonian Suspensions
+          - Advisor: Robert P. Behringer
+          - Thesis: Forces and Flows in Non-Newtonian Suspensions
 
     Experience:
       - company: Cornell University
@@ -47,37 +47,18 @@ cv:
         summary: 
 
     Awards:
-     - title: Whetten Memorial Award
-        date: 2023
-        awarder: Cornell Nanoscale Facility
-        summary: In recognition of outstanding young women in science and engineering whose research was conducted in the Cornell Nanoscale Facility. 
       - title: Yodh Prize
         date: 2021
         awarder: Physics Department, University of Chicago
         summary: In recognition of outstanding experimental work by a graduate student in physics.
-      - title: Eckhardt Scholar
-        date: 2016
-        awarder: Physics Department, University of Chicago
-        summary: Awarded to support exceptional doctoral students
-      - title: Maria Goepper-Mayer fellowship
-        date: 2016
-        awarder: Physics Department, University of Chicago
-      - title: Sachs fellowship
-        date: 2016
-        awarder: Physics Department, University of Chicago
-      - title: Phi Beta Kappa member
-      - title: Daphne Chang Memorial Award
-        date: 2015
-        awarder: Physics Department, Duke University
-        summary: Awarded to students who excel in undergraduate research
-      - title: Lemelson-MIT Student Prize Finalist
-        date: 2016
-
+      - title: Whetten Memorial Award
+        date: 2029
+        awarder: Cornell Nanoscale Facility
+        summary: In recognition of outstanding young women in science and engineering whose research was conducted in the Cornell Nanoscale Facility. 
 
     Skills:
       - name: Experimental Soft Matter Physics
-        level: 
+        level: Master
         keywords: ""
 
 
-    
