@@ -19,8 +19,8 @@ cv:
   sections:
     Education:
       - institution: University of Chicago
-        area: Physics
         location: Chicago, Illinois
+        area: Physics
         studyType: PhD
         start_date: 2016
         end_date: 2021
@@ -71,7 +71,7 @@ cv:
 
     Skills:
       - name: Experimental Soft Matter Physics
-        level: Master
+        level: 
         keywords: ""
 
 
