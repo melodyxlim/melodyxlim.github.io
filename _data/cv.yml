@@ -53,13 +53,15 @@ cv:
         authors:
           - "Cornell Nanoscale Facility"
         awarder: Cornell Nanoscale Facility
-        summary: In recognition of outstanding young women in science and engineering whose research was conducted in the Cornell Nanoscale Facility. 
-      - title: KIC Experimental Postdoctoral Fellowship
+        summary: In recognition of outstanding young women in science and engineering whose research was conducted in the Cornell Nanoscale Facility.
+        
+       - title: KIC Experimental Postdoctoral Fellowship
         date: 2021
         authors:
           - "Kavli Institute at Cornell, Cornell University"
         awarder: Kavli Institute at Cornell, Cornell University
-        summary: In support of the best and brightest young researchers in nanoscale science to pursue postdoctoral work and Cornell.
+        summary: In support of the best and brightest young researchers in nanoscale science to pursue postdoctoral work at Cornell.
+        
       - title: Yodh Prize
         date: 2021
         authors: 
