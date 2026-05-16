@@ -24,78 +24,76 @@ cv:
         area: Physics
         studyType: PhD
         start_date: 2016
-        end_date: 2021
+        end_date: 2022
         score: ""
         highlights:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
+      - institution: Duke University
+        location: Durham, North Carolina
         area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+        studyType: Bachelor of Science
+        start_date: 2012
+        end_date: 2016
         highlights:
           - Description 1.
           - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Cornell University
+        position: Kavli Institute at Cornell Postdoctoral Fellow
+        location: Ithaca, New York
+        start_date: 2022
+        end_date: 
+        summary: 
         highlights:
           - Relativity
           - Description 2.
 
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Whetten Memorial Award
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "Cornell Nanoscale Facility"
+        date: 2023
+        awarder: Cornell Nanoscale Facility
+        summary: In recognition of outstanding young women in science and engineering whose research was conducted in the CNF.
 
-      - title: Max Planck Medal
+      - title: KIC Experimental Postdoctoral Fellowship
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "Kavli Institute at Cornell, Cornell University"
+        date: 2021
+        awarder: Kavli Institute at Cornell, Cornell University
+        summary: In support of the best and brightest young researchers in nanoscale science to pursue postdoctoral work at Cornell.
 
-      - title: Max Planck Medal
+      - title: Yodh Prize
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "Physics Department, University of Chicago"
+        date: 2021
+        awarder: Physics Department, University of Chicago
+        summary: In recognition of outstanding experimental work by a graduate student in physics
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-      - title: Max Planck Medal
+      - title: Soft Matter for All Symposium 
         authors:
           - ""
-        date: 2029
+        date: 2020
         awarder: 
-        summary: Awarded for outstanding scientific achievement
+        summary: In promotion of early-career researchers in the field of Soft and Living Matter
 
-      - title: Max Planck Medal
+      - title: Eckhardt Scholar
         authors:
-          - ""
-        date: 2029
-        awarder: 
-        summary: Awarded for outstanding scientific achievement
+          - "Physics Department, University of Chicago"
+        date: 2016-2022
+        awarder: Physics Department, University of Chicago
+        summary: Awarded to support exceptional doctoral students
 
+      - title: Daphne Chang Memorial Award
+        authors:
+          - "Physics Department, Duke University"
+        date: 2015
+        awarder: Physics Department, Duke University
+        summary: Awarded to students who excel in undergraduate research
   
     Skills:
       - name: Physics
