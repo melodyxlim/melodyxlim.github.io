@@ -282,7 +282,7 @@ scholar:
   last_name: [Lim]
   first_name: [Melody, Xuan]
 
-  style: apa
+  style: /_bibliography/apa.csl
   locale: en
 
   source: /_bibliography/
