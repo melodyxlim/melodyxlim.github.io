@@ -126,11 +126,15 @@ cv:
     Skills:
       - name: Experimental soft matter physics
         level: Master
-        keywords: "Optical Microscopy, High Speed Imaging, Magnetic Manipulation, Acoustic Levitation"
+        keywords: "Optical Microscopy, High Speed Videography, Magnetic Manipulation, Acoustic Levitation"
 
-      - name: Research Microfabrication
+      - name: Microfabrication
         level: Master
-        keywords: "Design, Thin Film Deposition, Lithography (DUV and e-beam), Etching, Characterization"
+        keywords: "Design, Thin Film Deposition, Lithography (DUV and e-beam), Etching, Characterization (SEM, AFM, ellipsometry, profilometry)"
+        
+      - name: Data handling and analysis
+        level: Master
+        keywords: "MatLab, Python"
 
 
 
