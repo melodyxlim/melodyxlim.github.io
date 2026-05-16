@@ -9,6 +9,13 @@ cv:
     - network: GitHub
       username: melodyxlim
 
+  address:
+    street: 142 Sciences Drive
+    city: Ithaca
+    region: New York
+    postalCode: NY 14850
+    countryCode: US
+
 
   sections:
     Education:
@@ -41,19 +48,35 @@ cv:
         summary: 
 
     Awards:
+       - title: Whetten Memorial Award
+        date: 2023
+        authors:
+          - "Cornell Nanoscale Facility"
+        awarder: Cornell Nanoscale Facility
+        summary: In recognition of outstanding young women in science and engineering whose research was conducted in the Cornell Nanoscale Facility. 
+      - title: KIC Experimental Postdoctoral Fellowship
+        date: 2021
+        authors:
+          - "Kavli Institute at Cornell, Cornell University"
+        awarder: Kavli Institute at Cornell, Cornell University
+        summary: In support of the best and brightest young researchers in nanoscale science to pursue postdoctoral work and Cornell.
       - title: Yodh Prize
         date: 2021
         authors: 
           - "Physics Department, University of Chicago"
         awarder: Physics Department, University of Chicago
         summary: In recognition of outstanding experimental work by a graduate student in physics.
-      - title: Whetten Memorial Award
-        date: 2023
-        authors:
-          - "Cornell Nanoscale Facility"
-        awarder: Cornell Nanoscale Facility
-        summary: In recognition of outstanding young women in science and engineering whose research was conducted in the Cornell Nanoscale Facility. 
+      
+      - title: Soft Matter for All Symposium
+        date: 2020
+        authors: 
+            - ""
+        awarder: 
+        summary: In promotion of early-career researchers in the field of Soft and Living Matter.
 
+      
+
+   
     Skills:
       - name: Experimental Soft Matter Physics
         level: Master
