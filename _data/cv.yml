@@ -70,6 +70,34 @@ cv:
         awarder: German Physical Society
         summary: Awarded for outstanding scientific achievement
 
+      - title: Max Planck Medal
+        authors:
+          - "German Physical Society"
+        date: 2029
+        awarder: German Physical Society
+        summary: Awarded for outstanding scientific achievement
+
+      - title: Max Planck Medal
+        authors:
+          - "German Physical Society"
+        date: 2029
+        awarder: German Physical Society
+        summary: Awarded for outstanding scientific achievement
+
+      - title: Max Planck Medal
+        authors:
+          - ""
+        date: 2029
+        awarder: 
+        summary: Awarded for outstanding scientific achievement
+
+      - title: Max Planck Medal
+        authors:
+          - ""
+        date: 2029
+        awarder: 
+        summary: Awarded for outstanding scientific achievement
+
   
     Skills:
       - name: Physics
