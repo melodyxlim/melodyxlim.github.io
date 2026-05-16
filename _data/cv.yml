@@ -48,38 +48,36 @@ cv:
         summary: 
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-    
        - title: Whetten Memorial Award
         date: 2023
         authors:
           - "Cornell Nanoscale Facility"
         awarder: Cornell Nanoscale Facility
-        summary: In recognition of outstanding young women in science and engineering whose research was conducted in the Cornell Nanoscale Facility.
-        
-       - title: Yodh Prize
+        summary: In recognition of outstanding young women in science and engineering whose research was conducted in the Cornell Nanoscale Facility. 
+      - title: KIC Experimental Postdoctoral Fellowship
+        date: 2021
+        authors:
+          - "Kavli Institute at Cornell, Cornell University"
+        awarder: Kavli Institute at Cornell, Cornell University
+        summary: In support of the best and brightest young researchers in nanoscale science to pursue postdoctoral work and Cornell.
+      - title: Yodh Prize
         date: 2021
         authors: 
           - "Physics Department, University of Chicago"
         awarder: Physics Department, University of Chicago
         summary: In recognition of outstanding experimental work by a graduate student in physics.
+      
+      - title: Soft Matter for All Symposium
+        date: 2020
+        authors: 
+            - ""
+        awarder: 
+        summary: In promotion of early-career researchers in the field of Soft and Living Matter.
+
+      
+
    
     Skills:
       - name: Experimental Soft Matter Physics
         level: Master
         keywords: ""
-
-
