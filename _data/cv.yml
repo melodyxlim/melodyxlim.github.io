@@ -27,7 +27,7 @@ cv:
         end_date: 2022
         score: ""
         highlights:
-          - Description 1.
+          - Supervised by Heinrich M. Jaeger
           - Description 2.
 
       - institution: Duke University
@@ -37,7 +37,7 @@ cv:
         start_date: 2012
         end_date: 2016
         highlights:
-          - Description 1.
+          - Supervised by Robert P. Behringer
           - Description 2.
 
     Experience:
@@ -46,7 +46,7 @@ cv:
         location: Ithaca, New York
         start_date: 2022
         end_date: 
-        summary: 
+        summary: Supervised by Itai Cohen and Paul McEuen
         highlights:
           - Relativity
           - Description 2.
