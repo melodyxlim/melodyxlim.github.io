@@ -19,8 +19,8 @@ cv:
         start_date: 2016
         end_date: 2021
         highlights:
-          - Advisor: Heinrich M. Jaeger
-          - Thesis: Acoustically Levitated Granular Matter
+          - Advised by Heinrich M. Jaeger
+          - Acoustically Levitated Granular Matter
 
       - institution: Duke University
         location: Durham, North Carolina
@@ -29,8 +29,8 @@ cv:
         start_date: 2012
         end_date: 2016
         highlights:
-          - Advisor: Robert P. Behringer
-          - Thesis: Forces and Flows in Non-Newtonian Suspensions
+          - Advised by Robert P. Behringer
+          - Forces and Flows in Non-Newtonian Suspensions
 
     Experience:
       - company: Cornell University
