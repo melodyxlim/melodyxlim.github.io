@@ -43,10 +43,14 @@ cv:
     Awards:
       - title: Yodh Prize
         date: 2021
+        authors: 
+          - "Physics Department, University of Chicago"
         awarder: Physics Department, University of Chicago
         summary: In recognition of outstanding experimental work by a graduate student in physics.
       - title: Whetten Memorial Award
-        date: 2029
+        date: 2023
+        authors:
+          - "Cornell Nanoscale Facility"
         awarder: Cornell Nanoscale Facility
         summary: In recognition of outstanding young women in science and engineering whose research was conducted in the Cornell Nanoscale Facility. 
 
