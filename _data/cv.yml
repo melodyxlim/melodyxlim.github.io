@@ -28,7 +28,9 @@ cv:
         score: ""
         highlights:
           - Supervised by Heinrich M. Jaeger
-          - Conducted research in experimental soft matter physics on acoustically levitated granular matter. 
+          - Pioneered acoustic levitation as a experimental platform to self-assemble, drive, and activate emergent functionality in granular materials.
+          - Demonstrated that active fluctuations alter assembly statistics and rearrangement mechanisms
+          - Measured emergent mechanical properties of acoustically assembled granular material. 
 
       - institution: Duke University
         location: Durham, North Carolina
@@ -38,7 +40,7 @@ cv:
         end_date: 2016
         highlights:
           - Supervised by Robert P. Behringer
-          - Description 2.
+          - Led experiments on force transmission during impact in dense granular suspensions. 
 
     Experience:
       - company: Cornell University
