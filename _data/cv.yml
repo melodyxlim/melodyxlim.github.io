@@ -133,7 +133,7 @@ cv:
 
       - name: Microfabrication
         level: Master
-        keywords: "Design, Thin Film Deposition, Lithography (DUV and e-beam), Etching, Characterization (SEM, AFM, ellipsometry, profilometry)"
+        keywords: "Design (CAD and mask making), Thin Film Deposition (CVD, PVD, ALD), Lithography (DUV and e-beam), Etching, Characterization (SEM, AFM, ellipsometry, profilometry)"
         
       - name: Data handling and analysis
         level: Master
