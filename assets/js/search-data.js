@@ -434,11 +434,6 @@ ninja.data = [{
           description: "Edges control clustering in levitated granular matter",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{id: "projects-multistable-energy-landscapes-for-adaptive-microscopic-machines",
           title: 'Multistable energy landscapes for adaptive microscopic machines',
           description: "",
