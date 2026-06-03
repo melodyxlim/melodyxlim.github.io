@@ -409,8 +409,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-learning-the-emergent-nonlinear-dynamics-of-acoustically-levitated-cube-clusters",
-          title: 'Learning the emergent nonlinear dynamics of acoustically levitated cube clusters',
+          section: "News",},{id: "projects-learning-the-governing-equations-of-acoustically-levitated-cube-clusters",
+          title: 'Learning the governing equations of acoustically levitated cube clusters',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
