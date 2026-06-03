@@ -5,7 +5,7 @@ description:
 img: assets/img/20.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 Synthetic self-assembly, the process by which components spontaneously organize into complex structures, often fails due to persistent defective intermediates. Inspired by biological error-correction mechanisms, we engineer magnetic assemblies that become non-responsive to magnetic fields when correctly formed. External fields then selectively disassemble flawed structures while preserving target products, improving both yield and assembly speed. Bridging biological precision with synthetic design, our broadly adaptable method enables high-fidelity fabrication of microscale machines and adaptive materials.
