@@ -2,7 +2,7 @@
 layout: page
 title: project 2
 description: Magnetic Decoupling as a Proofreading Strategy 
-img: assets/img/3.jpg
+img: assets/img/20.jpg
 importance: 2
 category: work
 giscus_comments: true
