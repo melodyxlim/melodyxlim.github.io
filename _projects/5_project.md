@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: Edges control clustering in levitated granular matter
+title: Edges control clustering in levitated granular matter
+description: 
 img: assets/img/1.jpg
 importance: 3
 category: work
