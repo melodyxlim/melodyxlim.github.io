@@ -17,6 +17,6 @@ Here, we demonstrate that energy landscapes with designed multistability enable 
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Center-of-mass motion of four magnetic walkers with tails facing several directions, actuated at 25 Hz, with the time indicated by the shared color scale. Two walkers collide in the region highlighted with a red box, which is shown in a time-series of images on the right.
 </div>
 
