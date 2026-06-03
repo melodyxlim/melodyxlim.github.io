@@ -414,9 +414,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "Magnetic Decoupling as a Proofreading Strategy",
+            },},{id: "projects-magnetic-decoupling-as-a-proofreading-strategy",
+          title: 'Magnetic Decoupling as a Proofreading Strategy',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
