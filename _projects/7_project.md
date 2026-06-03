@@ -2,7 +2,7 @@
 layout: page
 title: Multistable energy landscapes for adaptive microscopic machines
 description: 
-img: assets/img/4.jpg
+img: assets/img/2.jpg
 importance: 1
 category: work
 related_publications: true
