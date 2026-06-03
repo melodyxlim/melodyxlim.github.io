@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning the emergent nonlinear dynamics of acoustically levitated cube clusters
+title: Learning the governing equations of acoustically levitated cube clusters
 description: 
 img: assets/img/12.jpg
 importance: 1
