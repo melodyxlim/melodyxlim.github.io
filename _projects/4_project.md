@@ -19,7 +19,3 @@ We present a scheme for generating shape-dependent, specific bonds between milli
     This image can also have a caption. It's like magic.
 </div>
 
-
-```
-
-{% endraw %}
