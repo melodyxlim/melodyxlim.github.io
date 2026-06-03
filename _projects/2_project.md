@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: Magnetic Decoupling as a Proofreading Strategy 
+title: Magnetic Decoupling as a Proofreading Strategy 
+description: 
 img: assets/img/20.jpg
 importance: 2
 category: work
