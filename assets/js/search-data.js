@@ -411,7 +411,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-learning-the-emergent-nonlinear-dynamics-of-acoustically-levitated-cube-clusters",
           title: 'Learning the emergent nonlinear dynamics of acoustically levitated cube clusters',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
