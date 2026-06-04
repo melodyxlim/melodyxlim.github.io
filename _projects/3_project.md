@@ -2,7 +2,7 @@
 layout: page
 title: Mechanical properties of acoustically levitated granular rafts
 description: 
-img: assets/img/7.jpg
+img: assets/img/3.jpg
 importance: 3
 category: work
 ---
@@ -16,10 +16,10 @@ These results provide insight into the emergence of liquidlike behavior in clust
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Self-assembly of granular rafts by acoustic levitation. At t =0, a standing wave is established between the transducer (above the top of the image) and reflector surface, which is covered with loose particles. These particles are picked up from the reflector surface by the primary acoustic force and initially form small clusters, which travel in the underdamped acoustic environment until they coalesce to form a monolayer. 
 </div>
 
